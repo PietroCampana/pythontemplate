@@ -34,7 +34,7 @@ do
     sed -i "s/$original_name/$name/g" $filename
 done
 # sed -i '3s/^.//' .github/workflows/analysis.yml
-mv src/meu src/$name
+mv src/$original_name src/$name
 
 # This command runs only once on GHA!
 rm -rf .github/template.yml
