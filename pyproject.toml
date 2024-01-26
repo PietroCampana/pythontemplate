@@ -2,10 +2,10 @@
 name = "project_name"
 version = "0.0.1"
 description = "project_description"
-authors = ["Pietro Campana"]
+authors = ["author_name"]
 license = "Apache License 2.0"
 readme = "README.md"
-repository = "https://github.com/biqute/project_name/"
+repository = "project_urlname"
 keywords = []
 classifiers = [
   "Programming Language :: Python :: 3",
