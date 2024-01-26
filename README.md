@@ -6,7 +6,7 @@ project_description
 Clone the repository with:
 
 ```bash
-git clone project_urlname 
+git clone project_url 
 ```
 
 then to install it in normal mode:
