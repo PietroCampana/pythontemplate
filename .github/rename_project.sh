@@ -38,3 +38,6 @@ mv src/$original_name src/$name
 
 # This command runs only once on GHA!
 rm -rf .github/template.yml
+
+# Remove template description from readme
+sed -i '30,$d' README.md
